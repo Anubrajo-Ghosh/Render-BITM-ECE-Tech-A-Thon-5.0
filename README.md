@@ -105,7 +105,9 @@ Render's free web-service tier (750 hrs/month) covers this comfortably. It has 5
 - Prabrisha Basu
 
 2nd Year B.Sc. (Honours) Microbiology
+
 Postgraduate and Research Department of Microbiology
+
 St. Xavier's College (Autonomous), Kolkata
 
 Built for BITM ECE Tech-A-Thon — Agro-Tech Problem Statement 1.
