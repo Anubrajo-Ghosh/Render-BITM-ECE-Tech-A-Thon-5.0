@@ -85,7 +85,7 @@ This is a **Flask + PyTorch** app — a real Python process that loads a ~9 MB m
    - **Runtime:** Python 3
    - **Build Command:** `pip install -r requirements.txt`
    - **Start Command:** `gunicorn app:app` (already set via the included `Procfile` — Render should auto-detect it)
-4. Deploy. Render builds the image and gives you a `https://<your-app>.onrender.com` URL.
+4. Deploy. Render builds the image and gives `https://render-bitm-ece-tech-a-thon-5-0.onrender.com` URL.
 5. Paste that URL into the **Live demo** line at the top of this README and commit.
 
 Render's free web-service tier (750 hrs/month) covers this comfortably. It has 512 MB RAM, which is enough for MobileNetV2 inference, and it spins down after ~15 minutes of inactivity — the first request after idling takes 20–30 seconds to "wake up." If you're demoing live to judges, open the link a minute or two before your slot so it's already warm.
