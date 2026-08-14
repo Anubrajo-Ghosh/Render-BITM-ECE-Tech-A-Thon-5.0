@@ -97,7 +97,7 @@ Render's free web-service tier (750 hrs/month) covers this comfortably. It has 5
 - SMS-based remedy delivery for farmers without smartphones
 - Farmer login with per-user history
 
-## Team
+## **Team**
 
 **Team Binary Biologists**
 
