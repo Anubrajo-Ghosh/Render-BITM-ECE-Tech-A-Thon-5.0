@@ -4,7 +4,7 @@ Built for **BITM ECE Tech-A-Thon** — Agro-Tech Problem Statement 1: *Crop Dise
 
 Upload a photo of a crop leaf → get an instant AI diagnosis, a confidence score, a severity rating, and a remedy tip in English or Hindi.
 
-**Live demo:** `<add your deployed URL here after deploying — see Deployment below>`
+**Live demo:** `https://render-bitm-ece-tech-a-thon-5-0.onrender.com`
 
 ## Problem
 
